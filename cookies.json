@@ -1,0 +1,67 @@
+[
+  {
+    "domain": ".huggingface.co",
+    "expirationDate": 1764650328,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "__stripe_mid",
+    "path": "/",
+    "sameSite": "strict",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "438228b3-a35b-404d-81a2-30b128355214a7287b"
+  },
+  {
+    "domain": ".huggingface.co",
+    "expirationDate": 1733116128,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "__stripe_sid",
+    "path": "/",
+    "sameSite": "strict",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "c9722c26-e57d-42d3-b548-7fe82fce01b4afdf5e"
+  },
+  {
+    "domain": "huggingface.co",
+    "expirationDate": 1764650036.199112,
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "token",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "TDzaAlDBMjPXQDLZPoXsUhqsGEblAWkZXYzVdXeovmSAgFtRAfIaipngqZhRffjpqMMIisVwvmUodzLCrxomZRBzUJyjloYSyTdqYkIkJSaLdZcxIhbwsbBTTGKsCYgi"
+  },
+  {
+    "domain": "huggingface.co",
+    "expirationDate": 1734325476.839797,
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "hf-chat",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "9b7338ed-6040-409f-9a35-22723db3db85"
+  },
+  {
+    "domain": ".huggingface.co",
+    "expirationDate": 1733460721,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "aws-waf-token",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "1023fee4-078d-4978-b489-bc7d07bf7498:HgoAvYkgvFMpAAAA:IyYMVCCcG7ArdYFWCrWe1+ROuw48KK/WIZHi94Ivwu7mbvgdWi9dLMTyzcHjNE+iFthC0pqYeAJ1wy+ssWl1R5l+ZDHTLV6C4SWvbkcy1OW/QzV4VcY7bmYGXWCpJwTObUbG8Q9myOonzI2oj5Zzje3lI9CseNyN8uu54XbXf/NMvuxBz83EJnPTd0uzSxXs6+9Aier1NWtYpsjRlgwnDxxxFbj3sFMV12CcrGE6aT6FEHDJya5e8bx8lgE8klz9GFfl2+c="
+  }
+]
